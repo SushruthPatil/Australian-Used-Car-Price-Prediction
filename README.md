@@ -41,18 +41,19 @@ KNN outperformed all models and was selected as the final model.
 - Model is NOT recommended for production deployment until retrained on post-2020 data
 
 ## Project Structure
-
+'''
 notebooks/     - 6 Jupyter notebooks (EDA to experiments)
 report/        - Final project report
 data/          - Data folder (data not included, see note above)
 requirements.txt - Python dependencies
-
+'''
 ## Tech Stack
 
 Python, pandas, scikit-learn, numpy, matplotlib, seaborn, altair
 
 ## Author
-
+'''
 Sushruta Gangadhar Patil
 Master of Data Science and Innovation
 University of Technology Sydney
+'''
