@@ -59,6 +59,6 @@ Please do not copy or submit any part of this work as your own. Academic miscond
 
 ## Author
 
-**Sushruta Gangadhar Patil**
-Master of Data Science and Innovation
-University of Technology Sydney
+**Sushruta Gangadhar Patil**  
+Master of Data Science and Innovation  
+University of Technology Sydney  
