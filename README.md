@@ -53,8 +53,9 @@ KNN outperformed all models and was selected as the final model.
 Python, pandas, scikit-learn, numpy, matplotlib, seaborn, altair
 
 ## Author
-'''
-Sushruta Gangadhar Patil
+
+**Sushruta Gangadhar Patil**
+
 Master of Data Science and Innovation
+
 University of Technology Sydney
-'''
