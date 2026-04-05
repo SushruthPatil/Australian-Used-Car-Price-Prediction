@@ -52,10 +52,13 @@ KNN outperformed all models and was selected as the final model.
 
 Python, pandas, scikit-learn, numpy, matplotlib, seaborn, altair
 
+## ⚠️ Academic Integrity
+
+This project was completed as part of UTS 36106 Machine Learning Algorithms and Applications assessment. The code and report are shared for portfolio purposes only.
+Please do not copy or submit any part of this work as your own. Academic misconduct is taken seriously at UTS and all universities.
+
 ## Author
 
 **Sushruta Gangadhar Patil**
-
 Master of Data Science and Innovation
-
 University of Technology Sydney
