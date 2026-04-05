@@ -1,1 +1,10 @@
-
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+altair
+scipy
+vegafusion
+vl-convert-python
+jupyter
